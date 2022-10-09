@@ -1,7 +1,7 @@
 # App-Notes
 Basic App Notes v1
 
-Write code my basic skill HTML, CSS and JavaScript
+Write code my basic skill HTML, Bootstrap and JavaScript
 
 Important notes I learnt: 
 1. Boostrap as CSS Framework help me to write code less and eficiency 
